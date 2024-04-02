@@ -1,8 +1,7 @@
-![Beat Witch cover image](Beat Witch.materials/Cover.jpg)
-
-
 # Beat Witch 
 _An Interactive Loneliness By Robert Patten_
+
+![Beat Witch cover image](https://github.com/pat10/Beat-Witch/blob/dc13453420244d07315cc79771299142983d25fc/Beat%20Witch.materials/Release/Cover.jpg)
 
 This is the source code for Beat Witch, a horror text adventure (interactive fiction) that involves a mysterious plague, music that can kill you, and the undead. 
 
