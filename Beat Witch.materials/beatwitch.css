@@ -1,0 +1,11 @@
+#output {
+    max-width:900px; 
+}
+
+
+.status-line-container {
+    color: #F8F8F8;
+    background-color: #202020; /* This will change throughout based on music playing, but this is the default color. */
+    padding: 3px;
+    border: 0;
+}

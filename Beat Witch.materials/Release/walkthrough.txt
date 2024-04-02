@@ -1,0 +1,212 @@
+**************************
+* Beat Witch walkthrough *
+**************************
+
+Beat Witch is an interactive story where you try to defeat a "beat witch" who has turned a city into a graveyard.
+
+The gameplay is mostly linear, but there are a few spots where things open up. There are two endings where you do not die -- but only one is the optimal ending.
+
+Hopefully, you're reading this out of curiosity instead of necessity. If you are stuck, try the following:
+
+- Don't give up. Really. When you see the death message, type UNDO.
+- If you're dying by music, try to find a way to either block it or stop it.
+- Mercy is better than revenge.  
+
+Also:
+- Type MUSIC to toggle the music. (It's on by default but only plays at certain points.)
+- If you want to find out more about beat witches, select the bonus material in the help menu.
+
+Note on the music: 
+The story only plays sound from time to time, and there is no music during the first few turns.
+
+Some interpreters (applications that play interactive fiction files) may not support music. Music functionality has been most thoroughly tested in Gargoyle -- though music works with several other interpreters -- as well as Chrome and Edge browsers. Technical users should note that browser support for sound is only available through Vorple, not plain Quixe. 
+
+Undoing in your browser will have no effect on the music, unless you undo into a part where there is no music. In traditional interactive fiction interpreters, like Gargoyle, undoing will actually restart the song (unless you've reached a part where no music should be playing). This is a workaround with the current limitations of sound support. 
+
+Users who aren't able to hear the music -- or don't want to -- will still be able to enjoy the story. It's provided to enrich the experience, not as a necessity. 
+
+*******************
+SPOILERS BELOW
+*******************
+*
+*
+*
+*
+*
+*
+*
+* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Gameplay is divided into chapters in this walkthrough. Each chapter contains minimal spoilery info about the ones that follow.
+1: Staging Area
+2: Into the Skyscraper
+3: The 32nd Floor
+4: The Roof
+5: Falling
+6: The Ascent and Drones
+7: Escape from City
+*
+*
+*
+*
+*
+1: Staging Area
+
+We begin this story as an impostor.
+
+The other emergency workers -- who are trying to find the cause of the infection and clean up the dead -- are unaware you are not Alisha. However, they will find out! You still wearing your hazmat helmet seems odd to them, as it's hard to hear with those things on, and you'll eventually be unmasked if you don't take it off. However, you do have a few turns to EXAMINE what's in the staging area to get an idea of what this plague is all about. This isn't necessary, but you may want to know what the emergency crew have been up to. If you don't feel like waiting around to be discovered, try to TAKE OFF HELMET twice.
+
+Dr. Steve will try to talk to you, but unfortunately, you don't have the ability to speak. You can only communicate with a notepad with prewritten statements. You can TALK TO him as he requests. Dr. Steve and the other emergency responders won't care whether you try to communicate or what option in the notepad you choose -- just pay attention to the options, as they reveal what our player character, Polly, is all about. 
+
+Everyone will freak out because they realize you are a beat witch, and your first death-by-music scene begins.
+
+During music scenes, you get a few turns to figure out how to neutralize or stop the music. The right action will always be simple (at least, to the author!). In this case, just WEAR HELMET. 
+
+Once you have the helmet on and are blocking the music, you are free to use your beat witch powers. Specifically, Dr. Steve is in your way, and you DRAIN him. Doing so causes him to collapse and gives you extra strength to burst OPEN the magnetically sealed door.
+
+Polly isn't always good with directions, so GO in any direction. 
+
+You're free! You're super! You're awesome!
+
+YOU'VE BEEN SHOT!
+*
+*
+*
+*
+*
+2: Into the Skyscraper
+You may be bleeding all over the place, but you can't mess up at this point. Polly knows instinctively where to go. On your way to the beat witch's hiding spot, you discover a burn pile and an unburned corpse nearby. The odd corpse is only there to hint that the beat witch is spying on you.
+
+You're pretty weak by the time you come to the skyscraper. You drop your helmet and don't have the strength or will to pick it up. Don't worry about this.
+
+ENTER SKYSCRAPER (or N). As you do so, the double doors close behind you, and the responders find you. They are no longer a threat, as they can't open the doors.
+
+You're now inside Tau Labs. You see Ted, who won't react much to what you do. This dude is weird. DRAINing him won't work. In fact, it will confuse Polly.
+
+GO in any direction to come to reach the stairwell -- Polly's sense of direction is still off. 
+
+Here you see a girl lying nearly lifeless. You have two choices. You can DRAIN her or GIVE LIFE TO her. Draining her won't have the effect you think, and giving life proves to be useless. Either way, you'll end up on ...
+*
+*
+*
+*
+*
+3: The 32nd Floor
+You wake up refreshed and healed. You meet Hal, the CEO of Tau Labs. He's surprised you're alive and even more surprised you're a beat witch. And with that knowledge, he doesn't try to kill you.
+
+You, on the other hand, are shocked and horrified that your notepad and Walkman are gone.
+
+You can't exit this floor on your own.
+
+GO EAST to find the breakroom. On the way, Hal asks you if you're here to kill the other beat witch. You communicate with yes or no (nod or shake of head). Your answer reveals more about your original plan to kill the other beat witch. READ the memo Hal wrote that's posted in the corridor. It gives some context to what happens next.
+
+When you reach the breakroom (and Margo will make sure you reach it), some inevitable things will end up happening:
+- Hal will die no matter what you choose. 
+- You will lose your Walkman no matter what you choose.
+
+But your choices also widen. What happens here determines who the enemy beat witch will speak through for the rest of the story -- referred to in this walkthrough (though not in the story) as the Speaker.
+
+These are your options to the little game presented by Margo as she forces you to sit in the chair hooked up to the earphones:
+
+- TALK TO HAL using the notepad. The notepad has been vandalized and has different options. If you choose 1 (be called Poophead) or 5 (don't pursue the conversation), you'll be able to make another choice. The other options will lead Hal to start the music. (See Stopping the Walkman below for what to do.) 
+- DRAIN HAL. You won't kill him, but you will be strong. Now ATTACK MARGO. You'll get her almost where you want her -- dangling from the window ledge. You can finish the job by PUSHing her or you can HELP her (or do nothing, which is the same as helping her as she eventually pulls herself up). If you help Margo, she'll stay the Speaker. If you push her, you'll think you've won, but as soon as you leave the breakroom with a weak Hal, he dies and becomes the Speaker.
+- GIVE LIFE TO HAL. You can make him your champion! You'll be weak for a short time. Hal's a better fighter than he seems. He and Margo struggle at the ledge. You can PUSH them, and they both fall out of the window. Ted will become the Speaker. If you do nothing, Margo will eventually prevail -- Hal falls to his death, and Margo stays the Speaker.    
+
+** Stopping the Walkman: Put an end to the music with the shard of glass on your lap. CUT THE CORD of your earphones. Margo expresses disappointment in Hal, and the CEO drops dead. Margo stays the Speaker. **
+
+The story progresses once you're out of the breakroom. Margo will force you out of there if she's still around. (And if Margo is the Speaker, Ted will accompany her. If Hal is the Speaker, Ted will stay motionless in the breakroom.)
+ 
+To leave the 32nd floor, you'll need some help beyond the grave. OPEN the door to the small office in the corridor if you dare. (This may work on the first attempt or two, as Polly has an awful feeling about the door.) Or you can wait in the upper lobby for the undead horde to emerge -- and observe the Speaker's strange words and antics while you do so. Either way, a wave of the dead will break the door to the stairs and make you go up.
+*
+*
+*
+*
+*
+3: The Roof
+The dead are waiting for you to EXAMINE and TURN ON this strange machine. It's a working version of the burned-out, exploded battery on the 32nd floor. When you attempt to turn it on, the dead will stop you, and the true beat witch will be revealed.
+
+She is revealed as Denise, the girl on the stairs -- not Margo. Like you, she can't speak, but she's found a way around that by speaking through the dead. You've been dealing with her since you met Margo.
+
+Denise invites you to speak to her and gives you back the notepad. This is for her own perverse amusement and to mock you. You can skip this two-part conversation if you like.
+
+Then her horde of the undead will grab you. You'll be powerless for 2 turns. They'll drop you over the edge.
+*
+*
+*
+*
+*
+4: Falling
+You're still powerless. Hitting the ground is inevitable. In fact, dying is inevitable here!
+
+You will encounter a crow as you fall. It is eager to eat your remains. You won't be able to get rid of it until you hit the ground.
+
+However, all is not as it seems. After you recall Benny's recording to you, you see the ground and the emergency responders. DRAIN RESPONDERS. Their energy flows into you before you hit the ground.
+
+You'll get a screen saying you died. But you'll get better! Type something, anything at the prompt. If you drained the responders, it will spell out LIVE. Then you will come back from the dead, stronger than ever.
+
+If you did not drain the responders before you hit the ground, you are truly dead, and the crow feasts.
+*
+*
+*
+*
+*
+The next little puzzle should be straight-forward. The responders still have Dr. Steve's iPhone, which is playing music. You left your helmet out here before you entered the skyscraper. WEAR HELMET.
+5. The Ascent and Drones
+
+You know you need to get back up to the roof to stop Denise. Your first instinct is probably to go through the front doors, but Denise prevents you from doing so by playing music everywhere inside. So if you can't go through the building, how do you get up there?
+
+You GO UP.
+
+Before you do so, TAKE PHONE. If you don't, you won't reach the top -- Denise's rotting goons will make sure you have a fall that is permanently fatal this time. But if you take the phone, they will shy away from you.
+
+After you climb the skyscraper, you'll end up on the fleshy bridge hidden in the mist over the street, made up of the dead knotted and twisted together. You sense Denise is to the south (as opposed to north, which is the roof). Polly won't want to go any direction but south, so SOUTH you go.
+
+Since the bridge is made up of Denise's minions, she easily overpowers you. No more helmet, no more phone. She tortures you while the battery is nearby.
+
+But the drones sent by the outside world have found you. They blast music that hurts you and Denise. Stopping the music this time won't be a matter of wearing or cutting something. Just TURN ON BATTERY. (Remember, the original battery killed all electronics in the city. It also exploded.)
+
+You fall before it boots up. The ensuing explosion kills Denise and propels you to the 16th floor. You crash through the window.
+*
+*
+*
+*
+*
+7: Escape from City
+There isn't much to do in the skyscraper anymore. Have a look around the Tau brothers' empty empire (or at least, the sales floor) and GO WEST. You descend in darkness and emerge outside the building.
+
+Once outside, you see the carnage and shrapnel from the explosion. You don't have to bother with any of this. Take the NORTHEAST path. Before you do so the first time, you pause when you notice Denise's photo album on the ground. READ BOOK if you dare to find out more about Denise's origins.
+
+You come to a park. You don't have to do anything here, but you could PLAY ON SWINGS to get Polly to remember a moment from her childhood. 
+
+Go NORTHWEST. Now you're in the alley on the north side of the skyscraper. You see some of the things Denise (through Margo and maybe Ted) threw from the window -- the Walkman and TV. Any bodies that fell during your encounter in the breakroom landed here as well. 
+
+A sewer grate here is your escape from the city, but GO DOWN does not work -- not yet. Polly won't go without Benny -- that is, what remains of her precious cassette tape. TAKE TAPE. Then DOWN.
+
+But one last enemy appears!
+
+Dr. Steve is back, half-drained and madder than ever. He has a scalpel. He may be weak, but so are you at this point. 
+
+Trying to take the scalpel isn't the answer. Attacking him will get you killed. You have two options here, which lead to two alternative endings that don't involve you dying:
+- DRAIN DR. STEVE. Threat eliminated. GO DOWN, and you'll get an ending where you head out of the city, but you are not able to bring yourself to face Benny, as you have proven that you are indeed a monster. You despair, and the story ends.
+- DOWN. Seriously -- just don't worry about Dr. Steve. He's not blocking your way down. You choose not to be a monster.
+
+Once you're down, you'll escape the city, and Dr. Steve is too weak to follow. 
+
+The final scene takes place on the beach near the lighthouse -- where Benny told you to meet. GO NORTH. You see Benny coming out of the lighthouse. The (optimal) end! 
+
+You'll know you have the best ending if the story promises you that Polly Miller will return.
+
+Thank you so much for playing, and I hope it was enjoyable! If you are still stuck or have feedback, email me at curiousrealms@gmail.com.
+
+--Robert Patten
+September 2023

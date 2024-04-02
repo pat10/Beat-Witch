@@ -1,0 +1,13 @@
+/savegame.glksave
+/Beat Witch.inform/Build
+/Beat Witch.inform/Docs
+/Beat Witch.inform/Index
+/Beat Witch.inform/Release.blurb
+*.gblorb
+*.DS_Store
+/.vscode
+/Beat Witch.materials/Release/savegame
+/Beat Witch.inform/Metadata.iFiction
+/Beat Witch.inform/Skein.skein
+/Beat Witch.inform/manifest.plist
+/Beat Witch.inform/Settings.plist
