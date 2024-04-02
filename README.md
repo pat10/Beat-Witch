@@ -27,5 +27,7 @@ I have also included music. This is for people intending to experiment and compi
 Extensions I used are included as well. While these are all publicly available, please respect the rights of the respective authors.
 
 __--Robert Patten__
+
 __A Basement in Idaho__
+
 __April 1, 2024__
